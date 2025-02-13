@@ -1,4 +1,35 @@
 
+# Hi there, I'm N1ghtm4reee! 👋
 [![aakhrif's 42 stats](https://badge.mediaplus.ma/greenbinary/aakhrif)](https://github.com/oakoudad/badge42)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N1ghtm4reee&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+Welcome to my GitHub profile. Here’s a little about me:
+
+## 🧑‍💻 About Me
+- 💻 I’m a passionate software developer with a love for creating innovative solutions.
+- 🌱 I’m constantly learning and exploring new technologies to improve my skills.
+- 🤝 I enjoy collaborating with others and contributing to open-source projects.
+
+## 🔧 Technologies & Tools
+- **Languages:** C, C++, Python
+
+## 📈 GitHub Stats
+![N1ghtm4reee's GitHub stats](https://github-readme-stats.vercel.app/api?username=N1ghtm4reee&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1ghtm4reee&layout=compact&theme=radical)
+
+## 📫 How to Reach Me
+- **Email:** akhrifayoub33@gmail.com
+- **LinkedIn:** [N1ghtm4reee]([https://www.linkedin.com/in/n1ghtm4reee](https://www.linkedin.com/in/ayoub-akhrif/))
+
+## 🌟 Projects
+Here are a few of my favorite projects:
+- [Project 1](https://github.com/N1ghtm4reee/project1): Description of project 1.
+- [Project 2](https://github.com/N1ghtm4reee/project2): Description of project 2.
+- [Project 3](https://github.com/N1ghtm4reee/project3): Description of project 3.
+
+## 🎮 Hobbies & Interests
+- 🧩 Problem solving and tackling challenging coding problems.
+
+Thanks for stopping by! Feel free to connect with me on social media or check out my projects. Let’s build something amazing together!
+
+![Profile Views](https://komarev.com/ghpvc/?username=N1ghtm4reee&color=blue)
+``` ▋
