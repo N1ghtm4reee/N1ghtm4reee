@@ -20,12 +20,6 @@ Welcome to my GitHub profile. Here’s a little about me:
 - **Email:** akhrifayoub33@gmail.com
 - **LinkedIn:** [N1ghtm4reee]([https://www.linkedin.com/in/n1ghtm4reee](https://www.linkedin.com/in/ayoub-akhrif/))
 
-## 🌟 Projects
-Here are a few of my favorite projects:
-- [Project 1](https://github.com/N1ghtm4reee/project1): Description of project 1.
-- [Project 2](https://github.com/N1ghtm4reee/project2): Description of project 2.
-- [Project 3](https://github.com/N1ghtm4reee/project3): Description of project 3.
-
 ## 🎮 Hobbies & Interests
 - 🧩 Problem solving and tackling challenging coding problems.
 
