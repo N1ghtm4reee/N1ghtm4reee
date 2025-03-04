@@ -18,7 +18,7 @@ Welcome to my GitHub profile. Here’s a little about me:
 
 ## 📫 How to Reach Me
 - **Email:** akhrifayoub33@gmail.com
-- **LinkedIn:** [N1ghtm4reee]([https://www.linkedin.com/in/n1ghtm4reee](https://www.linkedin.com/in/ayoub-akhrif/))
+- **LinkedIn:** [ayoub-akhrif]([https://www.linkedin.com/in/n1ghtm4reee](https://www.linkedin.com/in/ayoub-akhrif/))
 
 ## 🎮 Hobbies & Interests
 - 🧩 Problem solving and tackling challenging coding problems.
