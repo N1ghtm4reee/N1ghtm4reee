@@ -16,10 +16,6 @@ Welcome to my GitHub profile. Here’s a little about me:
 ![N1ghtm4reee's GitHub stats](https://github-readme-stats.vercel.app/api?username=N1ghtm4reee&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1ghtm4reee&layout=compact&theme=radical)
 
-## 📫 How to Reach Me
-- **Email:** akhrifayoub33@gmail.com
-- **LinkedIn:** [ayoub-akhrif]([https://www.linkedin.com/in/n1ghtm4reee](https://www.linkedin.com/in/ayoub-akhrif/))
-
 ## 🎮 Hobbies & Interests
 - 🧩 Problem solving and tackling challenging coding problems.
 
