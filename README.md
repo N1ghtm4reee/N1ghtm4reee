@@ -22,18 +22,4 @@ Welcome to my GitHub profile. Here’s a little about me:
 Thanks for stopping by! Feel free to connect with me on social media or check out my projects. Let’s build something amazing together!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=N1ghtm4reee&color=blue)
-
-
-<div align="center">
-
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
-
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code>
-
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code>
-
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
-
-</div>
-
 ``` ▋
