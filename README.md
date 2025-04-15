@@ -1,25 +1,24 @@
+<h1 align="center">Hi 👋, I'm N1ghtm4reee</h1>
+<h3 align="center">A passionate software engineer student from Morocco</h3>
 
-# Hi there, I'm N1ghtm4reee! 👋
-[![aakhrif's 42 stats](https://badge.mediaplus.ma/greenbinary/aakhrif)](https://github.com/oakoudad/badge42)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=n1ghtm4reee&label=Profile%20views&color=0e75b6&style=flat" alt="n1ghtm4reee" /> </p>
 
-Welcome to my GitHub profile. Here’s a little about me:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n1ghtm4reee" alt="n1ghtm4reee" /></a> </p>
 
-## 🧑‍💻 About Me
-- 💻 I’m a passionate software developer with a love for creating innovative solutions.
-- 🌱 I’m constantly learning and exploring new technologies to improve my skills.
-- 🤝 I enjoy collaborating with others and contributing to open-source projects.
+- 🌱 I’m currently learning **new technologies to improve my skills.**
 
-## 🔧 Technologies & Tools
-- **Languages:** C, C++, Python
+- 📫 How to reach me **ayoube_akhrif2015@outlook.fr**
 
-## 📈 GitHub Stats
-![N1ghtm4reee's GitHub stats](https://github-readme-stats.vercel.app/api?username=N1ghtm4reee&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1ghtm4reee&layout=compact&theme=radical)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## 🎮 Hobbies & Interests
-- 🧩 Problem solving and tackling challenging coding problems.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-Thanks for stopping by! Feel free to connect with me on social media or check out my projects. Let’s build something amazing together!
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=n1ghtm4reee&show_icons=true&locale=en&layout=compact" alt="n1ghtm4reee" /></p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=N1ghtm4reee&color=blue)
-``` ▋
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=n1ghtm4reee&show_icons=true&locale=en" alt="n1ghtm4reee" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n1ghtm4reee&" alt="n1ghtm4reee" /></p>
+
