@@ -15,7 +15,5 @@
 
 Thanks for stopping by! Feel free to connect with me on social media or check out my projects. Let’s build something amazing together!
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /></div>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=N1ghtm4reee&color=blue)
 ``` ▋
