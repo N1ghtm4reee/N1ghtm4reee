@@ -3,8 +3,12 @@
 [![aakhrif's 42 stats](https://badge.mediaplus.ma/greenbinary/aakhrif)](https://github.com/oakoudad/badge42)
 
 ## 🔧 Technologies & Tools
-- **Languages:** C, C++, Python
-- **Tools:** Docker
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,c,cpp,postman,vscode,linux,github,githubactions,bash" />
+  </a>
+</p>
 
 ## 📈 GitHub Stats
 ![N1ghtm4reee's GitHub stats](https://github-readme-stats.vercel.app/api?username=N1ghtm4reee&show_icons=true&theme=radical)
