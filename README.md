@@ -2,7 +2,7 @@
 # Hi there, I'm N1ghtm4reee! 👋
 [![aakhrif's 42 stats](https://badge.mediaplus.ma/greenbinary/aakhrif)](https://github.com/oakoudad/badge42)
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=<589150981766381618>)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=589150981766381618)
 
 ## 🔧 Technologies & Tools
 - **Languages:** C, C++, Python
