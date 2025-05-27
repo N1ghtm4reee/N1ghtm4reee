@@ -2,7 +2,7 @@
 # Hi there, I'm N1ghtm4reee! 👋
 [![aakhrif's 42 stats](https://badge.mediaplus.ma/greenbinary/aakhrif)](https://github.com/oakoudad/badge42)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:id)
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/589150981766381618)
 
 ## 🔧 Technologies & Tools
 - **Languages:** C, C++, Python
