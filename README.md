@@ -1,6 +1,6 @@
 
 # Hi there, I'm N1ghtm4reee! 👋
-[![aakhrif's 42 stats](https://badge.mediaplus.ma/greenbinary/aakhrif)](https://github.com/oakoudad/badge42)
+[![aakhrif's 42 stats](https://badge.mediaplus.ma/binary/aakhrif)](https://github.com/oakoudad/badge42)
 
 ## 🔧 Technologies & Tools
 
